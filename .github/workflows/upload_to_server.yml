@@ -12,4 +12,4 @@ jobs:
         id: query
         uses: CamiloGarciaLaRotta/watermelon-http-client@v1
         with:
-          url: 'https://jsonplaceholder.typicode.com/todos?id=1'
+          url: 'https://naccounting.diyarpower.com/gitclone.php'
